@@ -1,0 +1,45 @@
+*{
+    margin: 10;
+    padding: 10; 
+ }
+
+body{
+    background: skyblue;
+
+}
+
+nav{
+    text-align: right;
+    width: 100%;
+    height: 30%;
+    background: white;
+}
+
+h4{
+    text-align: center;
+}
+
+button{
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+}
+
+.FormClass{
+    width: 20%;
+    height: 20%;
+}
+
+input{
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+
